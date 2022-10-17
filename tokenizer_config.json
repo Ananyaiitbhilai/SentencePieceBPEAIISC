@@ -1,0 +1,12 @@
+{
+  "special_tokens": [
+    "<s>",
+    "<pad>",
+    "</s>",
+    "<unk>",
+    "<cls>",
+    "<sep>",
+    "<mask>"
+  ],
+  "tokenizer_class": "PreTrainedTokenizerFast"
+}
